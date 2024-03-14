@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Github\Simulation\x64\Debug\Simulation.exe</FullPath>
+      <FullPath>D:\Github\cpp-ball-simulation\x64\Debug\Simulation.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

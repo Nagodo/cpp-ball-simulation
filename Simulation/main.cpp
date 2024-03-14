@@ -33,10 +33,8 @@ int main(void)
     {
         /* Render here */
         glClear(GL_COLOR_BUFFER_BIT);
-
-        
+    
 		circle.Draw();
-        
 	
 		ball.Tick(&circle);
 	
